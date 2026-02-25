@@ -18,8 +18,23 @@ Implementación **completa y académicamente sólida** de un programa de escrito
 
 ---
 
-## 🧠 Arquitectura del Proyecto:
+## ✈️ Galería de Aviones de Combate (3 × 3)
 
+| ![010525-F-7238T-013](https://github.com/user-attachments/assets/7ef11234-815d-4900-84e4-ef72a5154a2f) | ![140310-F-NG006-007](https://github.com/user-attachments/assets/8903c20b-60f8-494c-8a93-433d496ea73d) | ![210919-F-AF248-9084](https://github.com/user-attachments/assets/befb6caa-8f6c-4f70-8f5b-ad55ae3b958f) |
+|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **F-16 Fighting Falcon**                                                                           | **F-22 Raptor**                                                                                    | **F-35 Lightning II**                                                                             |
+
+| ![F-22_Raptor_edit1_(cropped)](https://github.com/user-attachments/assets/7ecbb52d-3c11-4bfd-91c3-86ec68bc6e93) | ![F-35_Lightning_II_at_Nellis_Air_Force_Base_6_Mar_2013](https://github.com/user-attachments/assets/a4ac913b-5891-4477-a2d4-457e9824bd42) | ![F-35A_flight_(cropped)](https://github.com/user-attachments/assets/41c37941-ff95-4c68-ae58-11a12e0fd18c) |
+|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Su-57**                                                                                                   | **Eurofighter Typhoon**                                                                                                     | **Dassault Rafale**                                                                                         |
+
+| ![f-35a-lightning-ii_008](https://github.com/user-attachments/assets/44d3351e-60bc-4d4e-9215-e80e72d4ac8b) | ![f35-lightning-ii-strike-fighter](https://github.com/user-attachments/assets/ffefa1a4-a257-4464-b4ba-a34946da111a) | ![F35-LMA-800](https://github.com/user-attachments/assets/2a2bee54-3290-44ca-a16d-336ecee8669e) |
+|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **MiG-29**                                                                                                   | **JAS 39 Gripen**                                                                                           | **Chengdu J-20**                                                                                            |
+---
+
+## 🧠 Arquitectura del Proyecto:
+```
 AvionesCombateApp/
 │
 ├── db/
@@ -36,7 +51,7 @@ AvionesCombateApp/
 │ └── MainFrame.java
 │
 └── Main.java
-
+```
 ---
 
 ## 🗄️ 1️⃣ Script Oracle 19c (Tabla + Datos):
