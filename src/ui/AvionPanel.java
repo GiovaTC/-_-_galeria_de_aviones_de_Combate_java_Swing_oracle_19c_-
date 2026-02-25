@@ -29,4 +29,4 @@ public class AvionPanel extends JPanel {
         add(imgLabel, BorderLayout.CENTER);
         add(txt, BorderLayout.SOUTH);
     }
-} 
+}
