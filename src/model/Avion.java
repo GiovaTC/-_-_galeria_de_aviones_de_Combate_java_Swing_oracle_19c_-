@@ -24,4 +24,4 @@ public class Avion {
     public String getTipo() { return tipo; }
     public String getVelocidad() { return velocidad; }
     public Image getImagen() { return imagen; }
-}   
+}
