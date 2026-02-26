@@ -1,7 +1,9 @@
 # -_-_galeria_de_aviones_de_Combate_java_Swing_oracle_19c_- :. 
 # ✈️ Galería de Aviones de Combate – Java Swing + Oracle 19c .
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3da7edaf-7917-43d2-9c22-ac910950fe46" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3da7edaf-7917-43d2-9c22-ac910950fe46" />    
+
+<img width="2557" height="1079" alt="image" src="https://github.com/user-attachments/assets/930aa849-ac2d-4659-9080-ec8d31d2db0f" />        
 
 Implementación **completa y académicamente sólida** de un programa de escritorio en **Java (Swing)** que cumple con estándares de **proyecto universitario / portafolio profesional**.
 
