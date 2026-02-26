@@ -6,4 +6,4 @@ public class Main {
                 new MainFrame().setVisible(true)
         );
     }
-}   
+}
